@@ -54,6 +54,12 @@ This is the Pioneers website, built using the same layout structure as austinjew
    - Archives
    - Research Tools
 
+## Live Site
+
+**Production URL:** https://pioneers-website-ten.vercel.app/
+
+---
+
 ## Getting Started
 
 ### Prerequisites
@@ -244,6 +250,11 @@ This site is built to WCAG 2.1 AA standards:
 **Development Server:**
 - Running on: http://localhost:3000
 - Status: Active
+
+**Deployment:**
+- GitHub: https://github.com/jeffcohenatxGAJHS/pioneers-website
+- Vercel: https://pioneers-website-ten.vercel.app/
+- Auto-deploys on push to main branch
 
 ---
 
